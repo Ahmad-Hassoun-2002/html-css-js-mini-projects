@@ -6,6 +6,12 @@ Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Generate-a-
 ## Guess-Word-Game-In-JS
 Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Guess-Word-Game-In-JS/
 
+## Hang-Man-Game
+Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Hang-Man-Game/
+
+## Memory-Blocky-Game
+Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Memory-Blocky-Game/
+
 ## Notes-App
 Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Notes-App/
 
