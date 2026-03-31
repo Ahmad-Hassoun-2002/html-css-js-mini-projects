@@ -3,6 +3,9 @@
 ## Generate-a-Random-Password-App
 Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Generate-a-Random-Password-App/
 
+## Guess-Word-Game-In-JS
+Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Guess-Word-Game-In-JS/
+
 ## Notes-App
 Live: https://ahmad-hassoun-2002.github.io/html-css-js-mini-projects/Notes-App/
 
